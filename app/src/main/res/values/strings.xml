@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project baru ygy</string>
+    <string name="Produk1">
+        Chees Burger Large
+        Harga : 16000
+
+
+    </string>
+    <string name="Harga">Rp.16000</string>
+
+
+</resources>
